@@ -1,0 +1,3 @@
+text for testing the fprintf 
+this one for testing 
+ fputs
